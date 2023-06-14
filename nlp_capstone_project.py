@@ -66,7 +66,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 """## **Load the Dataset**"""
 
-df = pd.read_csv('https://raw.githubusercontent.com/antrikshsaxena/capstone_solution/main/reviews_dataset.csv')
+df = pd.read_csv('reviews_dataset.csv')
 
 df.head(2)
 
